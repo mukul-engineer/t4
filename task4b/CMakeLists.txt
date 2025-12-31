@@ -24,6 +24,7 @@ install(PROGRAMS
   scripts/cartesian_velocity_control.py
   scripts/joint_jog_control.py
   scripts/magnet.py
+  scripts/tcp_pose_printer.py
   DESTINATION lib/${PROJECT_NAME}
 )
 
